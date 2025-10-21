@@ -1,6 +1,7 @@
 import React from "react";
+import { image } from "../data/user.js";
 
-const image = "/images/demo.png";
+
 function About() {
   return (
     <div id="about">
